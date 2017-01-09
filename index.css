@@ -1,0 +1,16 @@
+.center {
+    margin: auto;
+    text-align: center;
+    width: 30%;
+    border: 3px solid blue;
+    background-color: black;
+}
+ul {
+    list-style-position: inside;
+    padding-right: 3em;
+}
+body {
+    background-image: url("food.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
