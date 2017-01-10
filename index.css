@@ -1,13 +1,14 @@
 .center {
     margin: auto;
     text-align: center;
-    width: 30%;
-    border: 3px solid blue;
+    width: 40%;
+    border: 3px solid green;
     background-color: black;
 }
 ul {
     list-style-position: inside;
     padding-right: 3em;
+    font-size: large;
 }
 body {
     background-image: url("food.jpg");
